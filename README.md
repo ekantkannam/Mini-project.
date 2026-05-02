@@ -1,4 +1,4 @@
-# Mini-project.
+# project.
 Transcriptomic Analysis of Type 2 Diabetes using RNA-Seq
 
 This repository contains the bioinformatics workflow for identifying differentially expressed genes (DEGs) in Type 2 Diabetes (T2D) using RNA sequencing (RNA-Seq) data. The study aims to explore transcriptomic alterations in T2D and uncover key molecular signatures that contribute to disease progression.
